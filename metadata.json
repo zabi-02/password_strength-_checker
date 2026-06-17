@@ -1,0 +1,6 @@
+{
+  "name": "Advanced Password Strength Checker",
+  "description": "An industry-grade cybersecurity app evaluating password strength, entropy, patterns, dictionary matching, cracking speed, and Have I Been Pwned breaches locally with live threat intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
